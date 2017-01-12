@@ -3,5 +3,5 @@ public static void main(String[] args){
      System.out.println("练功诀窍:");
      System.out.println("欲练此功");
      System.out.println("你懂得");
->>>>>>>这是什么?
+     System.out.println("haha....");
 }
